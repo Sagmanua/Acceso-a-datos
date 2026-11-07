@@ -60,4 +60,3 @@ for (id_mascota, nombre, edad) in filas:
  
 print(recuperadas)
 conn.close()
-```[cite: 2]
